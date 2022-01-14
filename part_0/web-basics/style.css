@@ -1,0 +1,24 @@
+a:hover {
+        color:pink;
+}
+table, td {
+        border: 2px solid;
+}
+th {
+        background-color: blue;
+}
+tr {
+        border: 2px solid;
+}
+li {
+        color: green;
+}
+.specified {
+        background-color:pink;
+}
+#headers h1 {
+    color:yellow;
+}
+#headers h2 {
+    color:green;
+}
